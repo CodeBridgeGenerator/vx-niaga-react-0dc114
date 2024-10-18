@@ -1,0 +1,8 @@
+[
+    {
+        "branchId": 1,
+        "modelType": "App\\Models\\Customer",
+        "modelId": 1,
+        "qrPath": "uploads/qrcodes/qr_codes.png"
+    }
+]
